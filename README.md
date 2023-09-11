@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANAS NAKHLI</h1>
+<h1 align="">Hi 👋, I'm ANAS NAKHLI</h1>
 <h3 align="center">A passionate full-stack developer from the kingdom of morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasnak&label=Profile%20views&color=0e75b6&style=flat" alt="anasnak" /> </p>
