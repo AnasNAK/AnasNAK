@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **laravel/vue**
+- 💬 Ask me about **laravel/React**
 
 - 📫 How to reach me **anasc00ding@gmail.com**
 
