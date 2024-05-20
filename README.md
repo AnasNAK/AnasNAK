@@ -39,12 +39,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasnak&" alt="anasnak" /></p>
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <!-- Include the GitHub contributions snake SVG animation here -->
-  <img src="https://github.com/AnasNAK/AnasNAK/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake SVG Animation">
+  <!-- Include the GitHub contributions dark snake SVG animation here -->
+  <img src="https://github.com/AnasNAK/AnasNAK/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Dark Snake SVG Animation">
   <br/><br/><br/>
 </div>
+
 
