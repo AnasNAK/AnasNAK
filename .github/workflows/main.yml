@@ -28,14 +28,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
 
-      - name: Show build status
-        run: git status
-
       - name: Push new files to the output branch
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "anasc00ding@gmail.com"
+          git config --global user.name "AnasNAK"
           git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
+          git checkout -b output  # Create and switch to the output branch
           git add .
           git commit -m "Update snake animations"
           git push origin output --force
