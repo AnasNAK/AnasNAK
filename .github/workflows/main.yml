@@ -33,10 +33,9 @@ jobs:
           git config --global user.email "anasc00ding@gmail.com"
           git config --global user.name "AnasNAK"
           git remote set-url origin https://github.com/AnasNAK/AnasNAK.git  # Corrected repository URL
-          git checkout -b output  # Create and switch to the output branch
+          git checkout -b output || git checkout output  # Create and switch to the output branch
           git add .
           git commit -m "Update snake animations"
           git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-
