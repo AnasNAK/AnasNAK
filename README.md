@@ -43,7 +43,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <!-- Include the GitHub contributions snake animation here -->
-  <img src="https://github.com/AnasNAK/AnasNAK/blob/output/dist/github-contribution-grid-snake.gif" alt="GitHub Contributions Snake Animation">
+  <!-- Include the GitHub contributions snake SVG animation here -->
+  <img src="https://github.com/AnasNAK/AnasNAK/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake SVG Animation">
   <br/><br/><br/>
 </div>
+
