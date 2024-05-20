@@ -32,10 +32,12 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
+          git add .
+          git commit -m "Update snake animations"
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
