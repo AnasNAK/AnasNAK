@@ -27,7 +27,7 @@
     
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **laravel/React**
+- 💬 Ask me about **MERN/STACK**
 
 - 📫 How to reach me **anasc00ding@gmail.com**
 
