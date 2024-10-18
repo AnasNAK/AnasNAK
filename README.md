@@ -1,4 +1,4 @@
-<img src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.webp" width=100%/>
+<img src="https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.webp" width=100% height=70% />
 
 
 <p align="center">
