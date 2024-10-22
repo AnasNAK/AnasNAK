@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/SYpxwVj7" width=100% height=300vh />
+<img src="[![Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.png](https://i.postimg.cc/gjxLLTW5/Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.png)](https://postimg.cc/SYpxwVj7)" width=100% height=300vh />
 
 
 <p align="center">
